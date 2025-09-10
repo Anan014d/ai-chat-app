@@ -52,7 +52,7 @@ cd chat-ai-app
 Navigate to the backend directory:
 
 ```bash
-cd nodejs-ai-assistant
+cd backend
 ```
 
 Install dependencies:
@@ -87,7 +87,7 @@ TAVILY_API_KEY=your_tavily_api_key_here
 Navigate to the frontend directory:
 
 ```bash
-cd ../react-stream-ai-assistant
+cd ../frontend
 ```
 
 Install dependencies:
